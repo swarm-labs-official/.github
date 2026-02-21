@@ -1,10 +1,20 @@
-# SWARM Labs
+<div align="center">
 
-AI-accelerated mobile app studio based in Vienna.
+# 🐝 SWARM Labs
 
-We move fast — from idea to MVP — using AI at every step of the process.
-Every app we ship is small, focused, and built to generate passive income from day one.
+**AI-accelerated mobile app studio. Vienna.**
+
+We move from idea to MVP at speed — using AI at every step.
+Small apps. Sharp focus. Passive income from day one.
 
 ---
 
-**Platform** · **Ideas** · **Apps** · **Velocity**
+🧠 **Idea Team** — maintains a live pool of 10 validated concepts, always ready  
+🏗️ **Platform Team** — the shared foundation every app is built on  
+📱 **App Teams** — one per idea, from concept brief to shipped product  
+
+---
+
+*Everything lives in GitHub. Every decision, every ticket, every line of code.*
+
+</div>

@@ -1,6 +1,0 @@
-{
-  "name": "SWARM CI",
-  "description": "Standard CI pipeline: lint, test, build.",
-  "iconName": "octicon workflow",
-  "categories": ["CI"]
-}
